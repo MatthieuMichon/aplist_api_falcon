@@ -8,7 +8,7 @@ from setuptools import setup
 
 setup(
     name='aplist_api_falcon',
-    version='0.1.dev1',
+    version='0.1.dev2',
     description='Airport List Query web-API for Falcon WSGI Server module',
     classifiers=[
         'Development Status :: 3 - Alpha',

@@ -6,7 +6,7 @@ https://github.com/MatthieuMichon/aplist_api_falcon
 
 import unittest
 
-from aplist.aplist import AirportList
+from aplist import AirportList
 
 
 class AirportListDepTester(unittest.TestCase):
